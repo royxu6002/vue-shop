@@ -2,7 +2,6 @@
   <div id="app">
     <img src="./assets/logo.png">
     <h1>Welcome to Vue.js forum</h1>
-    <HelloWorld/>
   </div>
 </template>
 
